@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a second year computer science student at the University of Bath. I enjoy triathlon, computing, meeting people and learning new skills. Feel free to follow me on social media below. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This site is a place for me to share things I've learned, and [mc.khems.net][mc.khems.net] is a place for you to play Minecraft with me and my friends. 
