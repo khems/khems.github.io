@@ -1,25 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-12-25 15:17:18
-categories: jekyll update
+title:  "First Post"
+date:   2016-1-17 21:12:18
+categories: meta
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Late 2015 I attended a [hackathon][bathhack] which pushed me to explore create more. I have been studying for a computer science degree, but other than creating a couple of apps for the Google Play Store, I've never really created much outside of study. I think that this website can be a good central place for me to organise and keep track of online life, while also sharing it with others who may find it useful.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I am planning on having my social media links, a CV, and various blogs about things I am learning. I am planning on writing about my experience of Jekyll (this), AWS and minecraft servers, domains and how to use them, handwriting, and Triathlon. I have many other things to write about and I will see how this goes.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[bathhack]:    http://www.bathhack.com
